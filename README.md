@@ -4,9 +4,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application demonstrating p
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Coming Soon - Deploy to Vercel]
-- **Backend API**: [Coming Soon - Deploy to Render]
-- **API Health**: [Your Backend URL]/health
+- **Frontend**: https://task-manageri.vercel.app/
+- **Backend API**: https://mern-task-backend-2pj9.onrender.com/
+- **API Health**: https://mern-task-backend-2pj9.onrender.com/health
 
 ## 📋 Features
 
